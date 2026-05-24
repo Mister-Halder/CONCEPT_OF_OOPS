@@ -1,0 +1,5 @@
+Packages in Java:-
+Packages is a group of similar types of classes, interfaces and sub-packages.
+
+Two types of packages:- 1. Inbuilt Packages
+                        2. User Defined Packages
