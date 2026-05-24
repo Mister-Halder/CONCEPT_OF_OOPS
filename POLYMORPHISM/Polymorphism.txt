@@ -1,0 +1,16 @@
+Polymorphism:-
+Poly -> Many
+Morphism -> Forms
+Polymorphism is a object oriented programming (OOP) concept. Polymorphism means Many Forms.
+
+Two types of Polymorphism:- 1. Compile Time Polymorphism (Static) -> Functon or Method Overloading
+                            2. Run Time Polymorphism (Dynamic) -> Function or Method Overriding
+
+1. Function or Method Overloading:-
+Function or Method Overloading is an object oriented programming (OOP) concept where
+multiple functions with the same name but different parameters
+
+2. Function or Method Overriding:-
+Function or Method Overriding is an object oriented programming (OOP) concept where
+base classes (parent classes) and derived classes (child classes) both contains 
+the same function with a different defination 
