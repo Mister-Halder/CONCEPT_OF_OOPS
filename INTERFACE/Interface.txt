@@ -1,0 +1,16 @@
+Interface:-
+Interface is an object oriented programming (OOP) concept in java.
+Interface is a blueprint of a class.
+
+Class --> Buleprint of object
+Interface --> Blueprint of class
+
+Advantages of Interface:- 1. Multiple Inheritance Implementation
+                          2. To achieve total abstraction (100%)
+                          
+Class --> Use "extends" keyword
+Interface --> Use "implements" keyword
+
+Properties of Interface:- 1. All methods or functions are public, abstract & without Implementation
+                          2. Used to achieve total abstraction (100%)
+                          3. Variables in the interface are final, public & static
