@@ -1,0 +1,7 @@
+Static Keyword:-
+Static Keyword in java is used to share the same variable or method of a given class.
+
+1. Properties are Static
+2. Functions are Static
+3. Blocks are Static
+4. Nested Classes are Static
