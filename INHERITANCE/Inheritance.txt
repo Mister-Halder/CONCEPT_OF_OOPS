@@ -1,0 +1,36 @@
+Inheritance:-
+Inheritance is an object oriented programming (OOP) feature when properties and methods of base 
+class (parent class) are passed on to a derived class (child class)
+
+Four types of Inheritance:- 1. Single Level Inheritance
+                            2. Multi Level Inheritance
+                            3. Hierarchial Inheritance
+                            4. Hybrid Inheritance
+                            5. Multiple Inheritance (Java does not support multiple inheritance with classes)
+
+1. Single Level Inheritance:-
+Single Level Inheritance is an object oriented programming (OOP) feature where one derived class (child class)
+inherits properties and methods of exactly one base class (parent class)
+
+2. Multi Level Inheritance:-
+Multi Level Inheritance is an object oriented programming (OOP) feature where a class is derived from a class
+that is already derived from another class.
+
+3. Hierarchial Inheritance:-
+Hierarchial Inheritance is an object oriented programming (OOP) feature where multiple derived classes (child classes)
+inherit from a single base class (parent class)
+
+4. Hybrid Inheritance:-
+Hybrid Inheritance is an object oriented programming (OOP) feature where two or more different types of inheritance
+(such as single level, multi level & hierarchial) within a single programming
+
+5. Multiple Inheritance:-
+Multiple Inheritance is an object oriented programming (OOP) feature where a single derived class (child class)
+inherits properties and methods from more than one base class (parent class)
+
+Java does not support multiple inheritance with classes
+
+Java support multiple inheritance with interfaces
+
+C++ support multiple inheritance with classes
+
