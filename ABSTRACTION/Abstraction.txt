@@ -3,6 +3,6 @@ Abstraction is an object oriented programming (OOP) concept.
 It is used to hide all the unnecessary details and showing only
 the important parts of the user.
 
-Abstract Classes:- 1. Cannot create an instance (object) of abstract class
+Properties of Abstract Classes:- 1. Cannot create an instance (object) of abstract class
                    2. Can have abstract and non-abstract methods or functions
                    3. can have constructors
