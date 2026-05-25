@@ -2,7 +2,7 @@ Inheritance:-
 Inheritance is an object oriented programming (OOP) feature when properties and methods of base 
 class (parent class) are passed on to a derived class (child class)
 
-Four types of Inheritance:- 1. Single Level Inheritance
+Five types of Inheritance:- 1. Single Level Inheritance
                             2. Multi Level Inheritance
                             3. Hierarchial Inheritance
                             4. Hybrid Inheritance
