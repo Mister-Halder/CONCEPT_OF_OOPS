@@ -1,0 +1,8 @@
+Access Modifiers:-
+Access Modifiers are the keywords that is used to set visibility and accessibility of 
+classes, methods or functions, variables and constructors.
+
+Four types of Access Modifiers:- 1. Public
+                                 2. Private
+                                 3. Protected
+                                 4. Default

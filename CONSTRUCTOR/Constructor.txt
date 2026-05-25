@@ -1,0 +1,13 @@
+Constructor:- 
+Constructor is an object oriented programming (OOP) feature.
+Constructor is a special type of method which is invoked automatically at the time of object creation.
+
+Properties of Constructor:- 1. Constructors have the same name as class or structure
+                            2. Constructors don't have any return type (Not even void)
+                            3. Constructors are only called once, at object creation
+                            4. Memory allocation happens when constructor is called
+
+Types of Constructor:- 1. Non-Parameterized Constructor
+                       2. Parameterized Constructor
+                       3. Copy Constructor                            
+

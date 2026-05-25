@@ -1,0 +1,4 @@
+Encapsulation:-
+Encapsulation is an object oriented programming (OOP) concept.
+It is defined as the wrapping up of data & methods under a single unit.
+It is used to implement data hiding.

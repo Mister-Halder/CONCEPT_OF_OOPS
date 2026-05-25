@@ -1,0 +1,5 @@
+Class:-
+Class is a blueprint or templet that is used to create objects.
+
+Object:-
+Object is an instance of a class.

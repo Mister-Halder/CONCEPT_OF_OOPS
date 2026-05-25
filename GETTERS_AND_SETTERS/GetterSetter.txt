@@ -1,0 +1,5 @@
+set (Setter Function):- To modify the value
+
+get (Getter Function):- To return the value
+
+this (Keyword):- Used to refer to the current object
