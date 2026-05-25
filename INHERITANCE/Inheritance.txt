@@ -10,11 +10,11 @@ Five types of Inheritance:- 1. Single Level Inheritance
 
 1. Single Level Inheritance:-
 Single Level Inheritance is an object oriented programming (OOP) feature where one derived class (child class)
-inherits properties and methods of exactly one base class (parent class)
+inherits properties and methods from exactly one base class (parent class)
 
 2. Multi Level Inheritance:-
 Multi Level Inheritance is an object oriented programming (OOP) feature where a class is derived from a class
-that is already derived from another class.
+that is already derived from another class
 
 3. Hierarchial Inheritance:-
 Hierarchial Inheritance is an object oriented programming (OOP) feature where multiple derived classes (child classes)
@@ -22,7 +22,7 @@ inherit from a single base class (parent class)
 
 4. Hybrid Inheritance:-
 Hybrid Inheritance is an object oriented programming (OOP) feature where two or more different types of inheritance
-(such as single level, multi level & hierarchial) within a single programming
+(such as single level, multi level & hierarchial) within a single program
 
 5. Multiple Inheritance:-
 Multiple Inheritance is an object oriented programming (OOP) feature where a single derived class (child class)
